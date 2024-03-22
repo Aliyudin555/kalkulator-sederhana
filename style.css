@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(127, 195, 172);
+}
+h1{
+    text-align: center;
+}
+.box{
+    background-color: rgb(18, 228, 102);
+   margin: 0% 20%;
+   padding: 1% 10%;
+   box-shadow: 2px 3px 5px #747373; 
+   border-radius: 2%;
+}
+.btn input{
+    background-color: rgb(255, 0, 0);
+    margin-right: 5%;
+    padding: 2% 7%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.btn input:hover{
+    transform: scale(80%);
+}
